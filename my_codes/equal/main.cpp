@@ -13,7 +13,7 @@ int equal(vector<int> a){
                             auto t=j-(min_-i);
                             return init+t/5+t%5/2+t%5%2;
                         }
-                    )
+                )
                 );
     }
     return  ans;
