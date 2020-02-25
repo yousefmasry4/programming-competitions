@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/equal.dir/main.cpp.o  -o equal 
